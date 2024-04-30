@@ -1,0 +1,15 @@
+pytest
+requests
+loguru
+pytest-rerunfailures
+faker
+yagmail
+selenium
+pyautogui
+allure-pytest
+webdriver-manager
+requests-toolbelt
+jsonpath
+pymysql
+sshtunnel
+pyyaml
