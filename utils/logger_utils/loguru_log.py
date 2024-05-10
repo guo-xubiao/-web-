@@ -1,5 +1,5 @@
-# 封装的loguru日志处理
 import loguru
+
 
 class Logger:
     def __init__(self, log_file, log_level='INFO'):
@@ -15,3 +15,12 @@ class Logger:
 
     def debug(self, message):
         loguru.logger.debug(message)
+
+    def warning(self, message):
+        loguru.logger.warning(message)
+
+    def error(self, message):
+        loguru.logger.error(message)
+
+    def critical(self, message):
+        loguru.logger.critical(message)

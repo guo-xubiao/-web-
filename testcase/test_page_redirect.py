@@ -3,18 +3,25 @@ from time import sleep
 import pytest
 from selenium.webdriver.common.by import By
 
+from utils.database_utils.mysql_handle import MySQLHandle
 from utils.logger_utils.loguru_log import Logger
 from utils.ui_utils.get_driver import get_driver
 from utils.ui_utils.base_page import BasePage
 from config import login_and_assert
 
+mysql_hadle = MySQLHandle(host='localhost', user='root', password='123456', port=3308, database='test_db')
+
 
 class Test_Page_Redirect():
-    @pytest.mark.parametrize("username, password, timeout", [
-        ("19197051934", "@gxb04215", 30),
-        # ("another_username", "another_password", 20),
-        # ("yet_another_username", "yet_another_password", 10)
-    ])
+    @staticmethod
+    def get_data_from_database():
+        mysql_hadle.connect()
+        login_data = mysql_hadle.select_data(table="login_data", fields="username,password,timeout", limit=2,
+                                             condition='id=2')
+        mysql_hadle.close()
+        return login_data
+
+    @pytest.mark.parametrize("username, password, timeout", get_data_from_database())
     def test_page_redirect(self, allure_report, username, password, timeout):
         # 打开浏览器
         driver = get_driver('edge')
