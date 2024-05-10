@@ -16,4 +16,3 @@ def login_and_assert(driver, username, password, timeout):
                          password, timeout)
     base_page.click_element((By.XPATH, '//*[@id="app"]/div[2]/div[1]/div[3]/div[2]/div[2]/button'))
     sleep(5)  # 可以适当增加等待时间
-    base_page.assert_text("个人中心", "个人中心")

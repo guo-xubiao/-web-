@@ -2,6 +2,8 @@ from time import sleep
 
 import pytest
 from selenium.webdriver.common.by import By
+
+from utils.logger_utils.loguru_log import Logger
 from utils.ui_utils.get_driver import get_driver
 from utils.ui_utils.base_page import BasePage
 from config import login_and_assert
@@ -25,4 +27,10 @@ class Test_Page_Redirect():
         base_page.get_window_handles()
         base_page.switch_to_new_window()
         sleep(5)
-        base_page.assert_text("软件测试", "软件测试")
+        base_page.get_screenshot("D:\\Web_Test_boxuegu\\output\\image\\screenshot2.png")
+        result = base_page.assert_text("软件测试", "软件测试")
+
+        if result:
+            logger = Logger(log_file='D:\\Web_Test_boxuegu\\output\\log\\test.log', log_level='INFO')
+            logger.info('运行了test_page_redirect')
+            logger.debug('test_page_redirect debug')

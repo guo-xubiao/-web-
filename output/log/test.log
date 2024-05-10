@@ -1,1 +1,4 @@
 2024-05-09 15:45:06.767 | INFO     | utils.logger_utils.loguru_log:info:14 - test_login1
+2024-05-09 16:49:53.010 | INFO     | utils.logger_utils.loguru_log:info:14 - 运行了test_login1
+2024-05-09 16:52:23.989 | INFO     | utils.logger_utils.loguru_log:info:14 - 运行了test_page_redirect
+2024-05-09 20:47:40.295 | INFO     | utils.logger_utils.loguru_log:info:14 - 运行了test_login1
