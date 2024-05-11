@@ -15,7 +15,7 @@ class TestLogin:
     def get_data_from_database():
         mysql_hadle.connect()
         login_data = mysql_hadle.select_data(table="login_data", fields="username,password,timeout", limit=2,
-                                             condition='id=2')
+                                             condition='id=1')
         mysql_hadle.close()
         return login_data
 
