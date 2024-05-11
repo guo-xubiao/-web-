@@ -41,3 +41,5 @@ class Test_Page_Redirect():
             logger = Logger(log_file='D:\\Web_Test_boxuegu\\output\\log\\test.log', log_level='INFO')
             logger.info('运行了test_page_redirect')
             logger.debug('test_page_redirect debug')
+
+        base_page.quit()

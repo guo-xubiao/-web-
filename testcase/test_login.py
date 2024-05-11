@@ -34,3 +34,5 @@ class TestLogin:
             logger.debug('test_login1 debug')
             AllureHandle.start_allure_test('test_login1')
             AllureHandle.add_description("test_login1 description")
+
+        base_page.quit()

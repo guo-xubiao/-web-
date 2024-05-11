@@ -9,6 +9,7 @@ from webdriver_manager.firefox import GeckoDriverManager
 
 
 def get_driver(browser):
+    global driver
     try:
         if browser == 'chrome':
             service = ChromeService(ChromeDriverManager().install())
