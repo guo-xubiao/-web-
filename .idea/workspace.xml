@@ -1,63 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a5ce1506-b111-44b2-a1a9-150ff7426f14" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Web_Test_boxuegu.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/067eea05-998d-48bb-9022-1e80f99be73d-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/2e1cdb05-7fe6-4b5d-81ad-446768cf8bbb-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/47873404-bf70-4d88-93da-fe74a9406dbd-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/518fea96-20e9-4421-b24f-bd2b65fafae3-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/59f0330d-ba2c-444a-85d9-6d00c6afb55c-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/6c6e3cb1-4ac3-446c-93e7-2729e120e84b-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/7cc648b5-04dd-4c61-98d3-e4ba36d8fadf-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/8592188f-a6c8-448c-8503-45260f667dc0-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/8983a69f-7999-4669-9f37-1a9c4a9513b9-attachment.attach" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/c2dd3685-a9ee-4163-a429-f6d0a90fa9a6-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/e4b9fc10-120e-4715-85e0-789747c46ec7-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/image/screenshot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/image/screenshot2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/log/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcase/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcase/allure-results/325cdc53-93eb-48da-bdef-80a0fd896336-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcase/allure-results/6de8a80a-d3d8-426a-8720-2f2ef73779de-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcase/allure-results/a996030b-6cd8-462e-8e88-467f3e1d5f55-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcase/allure-results/aad951fd-7685-4be8-88fa-90c4325092cf-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcase/allure-results/b3aeb352-ad95-4c88-8e17-e918b8240f71-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcase/allure-results/eda99ffb-c800-4874-ad9c-49db71b98f1b-attachment.attach" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcase/allure-results/fd41cb17-1a73-4674-a732-521fa26098f0-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcase/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/147fe8bc-d238-4e48-a152-8b1a2b256ede-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/16804955-74f6-46d5-8070-7c5a1f1325f3-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/2633eb2a-d37e-4172-bd47-02440e54d97b-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/32227c17-d6cb-4184-87ae-2a193b92bacf-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/36d1054e-1237-4852-b149-072d3cd8df9a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/5106d442-5601-4734-9b16-74f4e52e0764-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/56d41baa-788e-4aeb-b110-2ef04a90699c-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/57b1993c-8377-4bb9-af89-1371bfa150d2-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/61729755-b395-451f-b5d8-f9224be01118-attachment.attach" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/6b0e61c3-934a-4109-94d4-5a3465969bbc-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/e2d342f2-2636-4e00-84af-8ea904e4ad63-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image/screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/image/screenshot2.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/image/screenshot2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/allure-results/0444304c-f8a3-4061-bfed-00dd64cbc679-attachment.attach" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/allure-results/0468c537-b919-420b-8f76-3320aae6ada7-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/allure-results/3b3dec24-f870-442e-bb67-d12017a2ab33-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/allure-results/6bba7678-92e5-43c6-b12c-7a40a188f873-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/allure-results/74fc95cd-b951-4b57-a4d5-20c969aa3f3f-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/allure-results/c1993703-3004-4c21-a7fa-7401120adfca-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/allure-results/f1281647-70e6-4973-b09d-1767cc0198da-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/conftest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testcase/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcase/test_login.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcase/test_page_redirect.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/data_utils/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/data_utils/faker_handle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/database_utils/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/database_utils/mysql_handle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/files_utils/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/files_utils/files_handle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/files_utils/yaml_handle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/logger_utils/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/logger_utils/loguru_log.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/report_utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/test_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/test_page_redirect.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/test_page_redirect.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/utils/report_utils/allure_handle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/report_utils/get_results_handle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/ui_utils/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/ui_utils/base_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/ui_utils/get_driver.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,25 +40,118 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 6
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2gJXdPxjbKV8IvtBvJgxXdUigiB" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/code/python&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Python.run">
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Web_Test_boxuegu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_login.TestLogin 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Web_Test_boxuegu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login.TestLogin&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_login.TestLogin.test_login1 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Web_Test_boxuegu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login.TestLogin.test_login1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_page_redirect.TestPageRedirect 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Web_Test_boxuegu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_page_redirect.TestPageRedirect&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python 测试.test_login.TestLogin 的 Python 测试" />
+        <item itemvalue="Python 测试.test_page_redirect.TestPageRedirect 的 Python 测试" />
+        <item itemvalue="Python 测试.test_login.TestLogin.test_login1 的 Python 测试" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -94,11 +160,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715416741131</updated>
-      <workItem from="1715416745228" duration="71000" />
+      <workItem from="1715416745228" duration="3465000" />
+      <workItem from="1715425750579" duration="7975000" />
+      <workItem from="1715496028299" duration="37000" />
+      <workItem from="1715594448623" duration="1309000" />
+      <workItem from="1715606375921" duration="663000" />
+      <workItem from="1715836587703" duration="27000" />
+      <workItem from="1715925161490" duration="330000" />
+      <workItem from="1715937148065" duration="205000" />
+      <workItem from="1716082673054" duration="33000" />
+      <workItem from="1716713468981" duration="2850000" />
+      <workItem from="1716716748486" duration="6987000" />
+      <workItem from="1716787052483" duration="2305000" />
+      <workItem from="1716792767844" duration="620000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Web_Test_boxuegu$.coverage" NAME=" 覆盖结果" MODIFIED="1716729969080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Web_Test_boxuegu$run.coverage" NAME="run 覆盖结果" MODIFIED="1716730026578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
